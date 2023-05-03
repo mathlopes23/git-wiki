@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
