@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Cleanup Docs languages (#7865)
