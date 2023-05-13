@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Add missing single-line docstrings (#8362)
