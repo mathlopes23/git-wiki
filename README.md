@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Update OpenVINO INT8 export (#7515)
