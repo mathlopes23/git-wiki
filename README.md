@@ -1,1 +1,1 @@
-Replace onnx2tf usage from CLI to Python (#8429)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
