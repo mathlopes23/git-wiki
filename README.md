@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Add plot_images conf_thresh parameter (#8446)
