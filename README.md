@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Improve Docs arguments tables (#8415)
