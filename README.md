@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
