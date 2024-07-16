@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Add docs guide terminal images (#8819)
