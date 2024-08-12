@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Clean up unused imgsz (#7771)
